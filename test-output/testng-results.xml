@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11995" started-at="2015-11-07T19:10:56Z" finished-at="2015-11-07T19:11:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11995" started-at="2015-11-07T19:10:56Z" finished-at="2015-11-07T19:11:08Z">
+      <class name="core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray">
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="14" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-Multiplication.01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[222075]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[222075]]>
+              </value>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Operation_Validation_web20calculator -->
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-Division.02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Operation_Validation_web20calculator -->
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="1" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-Addition.03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[111111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[111111]]>
+              </value>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Operation_Validation_web20calculator -->
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-Subtraction.04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23329646]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23329646]]>
+              </value>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Operation_Validation_web20calculator -->
+      </class> <!-- core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

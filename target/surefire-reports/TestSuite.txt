@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.209 sec <<< FAILURE!
+a2d(core_Assignment.web20calculatorTestNG.Web20calculator_mainTest)  Time elapsed: 0.008 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at core_Assignment.web20calculatorTestNG.Web20calculator_mainTest.a2d(Web20calculator_mainTest.java:9)
+
+main(core_Assignment.web20calculatorTestNG.Web20calculator_mainTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at core_Assignment.web20calculatorTestNG.Web20calculator_mainTest.main(Web20calculator_mainTest.java:14)
+
