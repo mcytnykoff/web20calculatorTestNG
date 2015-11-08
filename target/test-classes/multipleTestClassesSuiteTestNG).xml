@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test_Suite_For_Calculator20" parallel="true">
+
+ 
+  <test name="Regression">
+    <classes>
+      <class name="core_Assignment.web20calculatorTestNG.Web20calculator_csv"/>
+      <class name="core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray"/>
+    </classes>
+  </test>
+	
+	<test name="Test_Sysout_csv">
+		<classes>
+			<class name="core_Assignment.web20calculatorTestNG.Web20calculator_csv" />
+		</classes>
+	</test>
+	<test name="Test_NG">
+		<classes>
+			<class name="core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray" />
+		</classes>
+	</test>
+  
+</suite>
+

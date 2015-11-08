@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11995" started-at="2015-11-07T19:10:56Z" finished-at="2015-11-07T19:11:08Z">
+  <suite name="Default suite" duration-ms="12337" started-at="2015-11-08T00:12:50Z" finished-at="2015-11-08T00:13:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11995" started-at="2015-11-07T19:10:56Z" finished-at="2015-11-07T19:11:08Z">
+    <test name="Default test" duration-ms="12337" started-at="2015-11-08T00:12:50Z" finished-at="2015-11-08T00:13:02Z">
       <class name="core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray">
-        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="14" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="8" started-at="2015-11-07T16:13:02Z" data-provider="data" finished-at="2015-11-07T16:13:02Z">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Operation_Validation_web20calculator -->
-        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T16:13:02Z" data-provider="data" finished-at="2015-11-07T16:13:02Z">
           <params>
             <param index="0">
               <value>
@@ -61,7 +61,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Operation_Validation_web20calculator -->
-        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="1" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T16:13:02Z" data-provider="data" finished-at="2015-11-07T16:13:02Z">
           <params>
             <param index="0">
               <value>
@@ -88,7 +88,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Operation_Validation_web20calculator -->
-        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T11:11:08Z" data-provider="data" finished-at="2015-11-07T11:11:08Z">
+        <test-method status="PASS" signature="test_Operation_Validation_web20calculator(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core_Assignment.web20calculatorTestNG.Web20calculatorTestParametersArray@6aaa5eb0]" name="test_Operation_Validation_web20calculator" duration-ms="0" started-at="2015-11-07T16:13:02Z" data-provider="data" finished-at="2015-11-07T16:13:02Z">
           <params>
             <param index="0">
               <value>

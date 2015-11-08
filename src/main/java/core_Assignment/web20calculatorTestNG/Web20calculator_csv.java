@@ -14,7 +14,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-
+/*
+* This class prints the given message on console.
+*/
 public class Web20calculator_csv {
 	public static void main(String[] args) {
  
